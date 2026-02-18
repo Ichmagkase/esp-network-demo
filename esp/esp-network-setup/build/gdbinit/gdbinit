@@ -1,0 +1,2 @@
+source /home/kase/esp/collab-concept/build/gdbinit/symbols
+source /home/kase/esp/collab-concept/build/gdbinit/connect
